@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on ShopNow<br>
+👯 I’m looking to collaborate on Full Stack Project<br>
+🌱 How to reach me harshadbodarde2206@gmail.com<br>
+💬 Ask me about C++,Javascript,React,Nodejs,SQL <br>
 
 
 # 💻 Tech Stack:
