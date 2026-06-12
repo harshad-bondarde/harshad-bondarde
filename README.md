@@ -2,7 +2,7 @@
 🔭 I’m currently working on ShopNow<br>
 👯 I’m looking to collaborate on Full Stack Project<br>
 🌱 How to reach me harshadbodarde2206@gmail.com<br>
-💬 Ask me about C++,Javascript,React,Nodejs,SQL <br>
+💬 Ask me about C++,Javascript,React,Nodejs,SQL,Java ,Spring Boot <br>
 
 
 # 💻 Tech Stack:
